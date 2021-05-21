@@ -1,6 +1,6 @@
 # gulp-sass-universal
 
-Sass plugin for [Gulp](https://github.com/gulpjs/gulp).
+SASS plugin for [Gulp](https://github.com/gulpjs/gulp).
 
 Support M1 (ARM) MacOS
 

@@ -5,11 +5,11 @@
   "bugs": {
     "url": "https://github.com/jagermesh/gulp-sass-universal/issues"
   },
-  "description": "Monitoring Sensor",
+  "description": "Gulp SASS Plugin",
   "homepage": "https://github.com/jagermesh/gulp-sass-universal#readme",
   "license": "MIT",
   "main": "index.js",
-  "name": "monitoring-sensor",
+  "name": "gulp-sass-universal",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/jagermesh/gulp-sass-universal.git"
