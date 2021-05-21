@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Jager Mesh"
+  },
+  "bugs": {
+    "url": "https://github.com/jagermesh/gulp-sass-universal/issues"
+  },
+  "description": "Monitoring Sensor",
+  "homepage": "https://github.com/jagermesh/gulp-sass-universal#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "monitoring-sensor",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jagermesh/gulp-sass-universal.git"
+  },
+  "scripts": {
+    "test": "echo \"OK\""
+  },
+  "version": "1.0.0"
+}
