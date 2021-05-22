@@ -17,5 +17,15 @@
   "scripts": {
     "test": "echo \"OK\""
   },
+  "keywords": [
+    "sass",
+    "scss",
+    "gulp",
+    "gulp-sass",
+    "gulp-scss",
+    "node-sass",
+    "preprocessor",
+    "gulplugin"
+  ],
   "version": "1.0.0"
 }
