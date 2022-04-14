@@ -17,7 +17,7 @@ function GulpDartSass(options) {
       const tmpFilePath = path.resolve(tempDir, file.relative.replace('.scss', '.css'));
       const targetFilePath = options.dest ? path.resolve(options.dest, file.relative.replace('.scss', '.css')) : file.path.replace('.scss', '.css');
       const cmd = `sass ${file.path} ${tmpFilePath} --no-source-map`;
-      exec(cmd, function (err, stdout, stderr) {
+      exec(cmd, function (err) {
         if (err) {
           return callback(err, file);
         }
